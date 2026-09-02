@@ -53,7 +53,7 @@ pyinstaller --onefile --windowed --name APNG_Maker main.py
 
 ## 运行截图
 
-![Uploading 运行截图.png…]()
+[![Uploading 运行截图.png…]()](https://github.com/lanliangjie/APNG_Maker/blob/main/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png)
 
 ## 许可证
 
